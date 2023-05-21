@@ -80,7 +80,7 @@ body code, body pre {
 	color: var(--body-code-color);
 	border-radius: 4px;
 	font-family: "SF Mono", Menlo, "Courier New", Courier, monospace;
-	font-size: 0.95em;
+	font-size: 0.99em;
 	-webkit-hyphens: none;
 	letter-spacing: -.027em;
 	font-size: 0.9375em;
@@ -476,7 +476,6 @@ sup[id^='fn'] {
 		margin-bottom: 20px;
 		padding-left: 20px;
 		padding-right: 20px;
-		font-size: 16px;
 	}
 
 	:root {
