@@ -115,7 +115,7 @@ body > .systemMessage {
 	color: var(--article-title-color);
 	margin-top: 26px;
 	padding-bottom: 15px;
-	font-size: 40px;
+	font-size: 36px;
 	text-align: left;
 	font-style: normal;
 	margin: auto;
@@ -481,7 +481,7 @@ sup[id^='fn'] {
 	:root {
 		color-scheme: light dark;
 		--font-family: 'Iowan Old Style', "Georgia", serif;
-		--font-size: 13px;
+		--font-size: 18px;
 		--primary-accent-color: #086AEE;
 		--secondary-accent-color: #086AEE;
 		--block-quote-border-color: rgba(8, 106, 238, 0.75);
